@@ -1,0 +1,5 @@
+ambulance
+bike
+auto
+car
+bus
