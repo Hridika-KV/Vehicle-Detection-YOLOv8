@@ -61,6 +61,10 @@ Enter the image path when prompted, and the detected output image will be saved 
 
 ## Author
 
-**Hridika K V**
-B.Tech Computer Science and Engineering
-Government Engineering College, Wayanad
+## Author
+
+**Name:** Hridika K V
+
+**Course:** B.Tech Computer Science and Engineering
+
+**College:** Government Engineering College, Wayanad
